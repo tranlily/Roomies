@@ -46,5 +46,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Preview
 ![pimg](/images/roomies-cap1.png)
-![pimg2](/images/roomies-cap2.png)
+![pimg2](/images/roomies-cap.png)
 ![pimg3](/images/roomies-cap3.png)
