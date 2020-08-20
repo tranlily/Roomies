@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Preview
 ![pimg](/images/roomies-cap1.png)
+![pimg2](/images/roomies-cap2.png)
+![pimg3](/images/roomies-cap3.png)
 
 ## Available Scripts
 
